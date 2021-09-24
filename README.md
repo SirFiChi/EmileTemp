@@ -23,3 +23,6 @@ Scipt is running an the output is shown on tingg.io
 # ToDo
 1. Addressing of the Temp-Sensors to minimizie side effects (same temperature for booth sensors)
 2. Better documentation in the .ino file
+
+# Sample
+![Picture of the device](https://repository-images.githubusercontent.com/410052560/ea7028f5-4d61-4c8c-aa26-e4e332b2d1cc)
