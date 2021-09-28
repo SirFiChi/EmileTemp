@@ -1,7 +1,7 @@
 # EmileTemp
 TempSensors with one ESP8266, multiple DS18B20 and MQTT transfer to tingg.io.
 
-# Version v0.1
+# Version v0.2
 Scipt is running an the output is shown on tingg.io
 
 # Instructions TINGG.io
@@ -21,8 +21,7 @@ Scipt is running an the output is shown on tingg.io
 5. Start the messurment buy powering the ESP8266
 
 # ToDo
-1. Addressing of the Temp-Sensors to minimizie side effects (same temperature for booth sensors)
-2. Better documentation in the .ino file
+1. Better documentation in the .ino file
 
 # Sample
 ![Picture of the device](https://repository-images.githubusercontent.com/410052560/ea7028f5-4d61-4c8c-aa26-e4e332b2d1cc)
